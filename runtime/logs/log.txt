@@ -1,0 +1,406 @@
+Date: 07/12/2024 13:31:08
+Exception Class: 2
+Error Message: Undefined variable $data
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\controllers\User_dashboard_controller.php
+Line Number: 18
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:31:15
+Exception Class: 2
+Error Message: Undefined variable $budgets
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 26
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:31:25
+Exception Class: 2
+Error Message: Undefined variable $budgets
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 26
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:31:28
+Exception Class: 2
+Error Message: Undefined variable $budgets
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 26
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:31:35
+Exception Class: 2
+Error Message: Undefined variable $savings
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 58
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:33:23
+Exception Class: 2
+Error Message: Undefined array key "total_budget"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 29
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:34:51
+Exception Class: 2
+Error Message: Undefined array key "total_budget"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 29
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:35:30
+Exception Class: 2
+Error Message: Undefined array key "total_budget"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 29
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:37:19
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:38:47
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:03
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:04
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:04
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:05
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:05
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:15
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:16
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:16
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:16
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:16
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:16
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:17
+Exception Class: 8192
+Error Message: explode(): Passing null to parameter #2 ($string) of type string is deprecated
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 394
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:39:47
+Exception Class: 2
+Error Message: Undefined array key "budget_status"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 33
+------------------------------------------------------------------
+
+Date: 07/12/2024 13:40:24
+Exception Class: 2
+Error Message: Undefined array key "savings_goal"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\dashboard.php
+Line Number: 61
+------------------------------------------------------------------
+
+Date: 08/12/2024 4:40:03
+Exception Class: 2
+Error Message: Undefined variable $page
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\transactions\index.php
+Line Number: 55
+------------------------------------------------------------------
+
+Date: 08/12/2024 7:37:17
+Exception Class: 2
+Error Message: Undefined variable $user_email
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\templates\sidenav.php
+Line Number: 41
+------------------------------------------------------------------
+
+Date: 08/12/2024 8:26:19
+Exception Class: 2
+Error Message: Undefined array key "transaction_id"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\transactions\index.php
+Line Number: 34
+------------------------------------------------------------------
+
+Date: 08/12/2024 8:26:25
+Exception Class: 2
+Error Message: Undefined array key "transaction_id"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\transactions\index.php
+Line Number: 34
+------------------------------------------------------------------
+
+Date: 08/12/2024 9:06:04
+Exception Class: RuntimeException
+Error Message: Method User_feedback_ratings_controller::create is inaccessible or nonexistent.
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Router.php
+Line Number: 220
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:06:19
+Exception Class: RuntimeException
+Error Message: Controller User_feedback_controller does not exist.
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Router.php
+Line Number: 294
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:08:44
+Exception Class: Error
+Error Message: Class "User_feedback_ratings_controller" not found
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Router.php
+Line Number: 215
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:08:45
+Exception Class: Error
+Error Message: Class "User_feedback_ratings_controller" not found
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Router.php
+Line Number: 215
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:24:42
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:26:55
+Exception Class: Error
+Error Message: Class "User_feedback_ratings_controller" not found
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Router.php
+Line Number: 215
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:27:34
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:27:49
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:27:55
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:28:43
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:28:57
+Exception Class: Exception
+Error Message: Property category does not exist
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Controller.php
+Line Number: 84
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:32:54
+Exception Class: RuntimeException
+Error Message: user/feedback/index view file did not exist.
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\kernel\Invoker.php
+Line Number: 185
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:33:28
+Exception Class: 2
+Error Message: Undefined array key "id"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\feedback\index.php
+Line Number: 77
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:38:52
+Exception Class: 2
+Error Message: Undefined array key "id"
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\feedback\index.php
+Line Number: 77
+------------------------------------------------------------------
+
+Date: 08/12/2024 10:48:17
+Exception Class: 2
+Error Message: Undefined variable $otherFeedback
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\app\views\user\feedback\index.php
+Line Number: 73
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:22:26
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:23:26
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:25:15
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:25:16
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:25:17
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:25:17
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:25:27
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:28:44
+Exception Class: PDOException
+Error Message: SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'budget_tracker_db.transactions.timestamp'; this is incompatible with sql_mode=only_full_group_by<div style="background-color:#000;color:#fff;padding:15px">Query: SELECT YEAR(timestamp) AS year, WEEK(timestamp) AS week, SUM(amount) AS total_amount FROM transactions WHERE user_id = ?</div>
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1141
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:28:46
+Exception Class: PDOException
+Error Message: SQLSTATE[42000]: Syntax error or access violation: 1140 In aggregated query without GROUP BY, expression #1 of SELECT list contains nonaggregated column 'budget_tracker_db.transactions.timestamp'; this is incompatible with sql_mode=only_full_group_by<div style="background-color:#000;color:#fff;padding:15px">Query: SELECT YEAR(timestamp) AS year, WEEK(timestamp) AS week, SUM(amount) AS total_amount FROM transactions WHERE user_id = ?</div>
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1141
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:28:53
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:28:54
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:29:32
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:29:33
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:29:33
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
+Date: 09/12/2024 11:29:33
+Exception Class: TypeError
+Error Message: trim(): Argument #1 ($string) must be of type string, array given
+Filename: C:\Users\LENOVO_\Desktop\laragon\www\Budget Tracker\scheme\database\Database.php
+Line Number: 1001
+------------------------------------------------------------------
+
